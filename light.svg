@@ -242,7 +242,7 @@
       <text x="500" y="228" font-family="'Courier New', ui-monospace, monospace" font-size="19" font-weight="600" fill="#3b5f91" opacity="0">Web Developer
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.75;0.85;1" dur="10.4s" begin="2.6s" repeatCount="indefinite" />
       </text>
-      <text x="500" y="228" font-family="'Courier New', ui-monospace, monospace" font-size="19" font-weight="600" fill="#3b5f91" opacity="0">B.Tech CS Student
+      <text x="500" y="228" font-family="'Courier New', ui-monospace, monospace" font-size="19" font-weight="600" fill="#3b5f91" opacity="0">B.Tech @DTU , 1st year
         <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.75;0.85;1" dur="10.4s" begin="5.2s" repeatCount="indefinite" />
       </text>
       <text x="500" y="228" font-family="'Courier New', ui-monospace, monospace" font-size="19" font-weight="600" fill="#3b5f91" opacity="0">Physics Sim Builder
@@ -267,14 +267,14 @@
         <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" dur="0.5s" begin="1.25s" fill="freeze" />
         <circle cx="503" cy="300" r="2.5" fill="#3b5f91" />
         <text x="514" y="304" font-family="'Work Sans', sans-serif" font-size="13" font-weight="600" fill="#101522">Education:</text>
-        <text x="514" y="321" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#5b6472">B.Tech, 1st Year</text>
+        <text x="514" y="321" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#5b6472">B.Tech @DTU , 1st year</text>
       </g>
       <g opacity="0" transform="translate(-12,0)">
         <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze" />
         <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" dur="0.5s" begin="1.5s" fill="freeze" />
         <circle cx="503" cy="332" r="2.5" fill="#3b5f91" />
         <text x="514" y="336" font-family="'Work Sans', sans-serif" font-size="13" font-weight="600" fill="#101522">Current Focus:</text>
-        <text x="514" y="353" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#5b6472">Learning AI/ML fundamentals</text>
+        <text x="514" y="353" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#5b6472">Learning Full satck Development , Gen AI and DSA .</text>
       </g>
       <g opacity="0" transform="translate(-12,0)">
         <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.75s" fill="freeze" />
