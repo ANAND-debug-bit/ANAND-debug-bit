@@ -274,7 +274,7 @@
         <animateTransform attributeName="transform" type="translate" values="-12,0;0,0" dur="0.5s" begin="1.5s" fill="freeze" />
         <circle cx="503" cy="332" r="2.5" fill="#9db8e8" />
         <text x="514" y="336" font-family="'Work Sans', sans-serif" font-size="13" font-weight="600" fill="#f2f4f8">Current Focus:</text>
-        <text x="514" y="353" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#8b93a7"> Learning Full-Stack Development, DSA & Gen AI </text>
+        <text x="514" y="353" font-family="'Work Sans', sans-serif" font-size="12.5" fill="#8b93a7">Learning Full-Stack Development, DSA &amp; Gen AI</text>
       </g>
       <g opacity="0" transform="translate(-12,0)">
         <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.75s" fill="freeze" />
