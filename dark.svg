@@ -298,7 +298,7 @@
         <rect x="500" y="468" width="61" height="30" rx="15" fill="url(#pillGrad)" opacity="0.10">
           <animate attributeName="opacity" values="0.08;0.22;0.08" dur="2.6s" begin="1.9s" repeatCount="indefinite" />
         </rect>
-        <text x="530" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">React</text>
+        <text x="530" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">IOT</text>
       </g>
       <g opacity="0" transform="translate(0,10)">
         <animate attributeName="opacity" values="0;1" dur="0.45s" begin="2.02s" fill="freeze" />
@@ -325,7 +325,7 @@
         <rect x="762.2" y="468" width="86" height="30" rx="15" fill="url(#pillGrad)" opacity="0.10">
           <animate attributeName="opacity" values="0.08;0.22;0.08" dur="2.6s" begin="2.26s" repeatCount="indefinite" />
         </rect>
-        <text x="805" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">HTML/CSS</text>
+        <text x="805" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">HTML</text>
       </g>
       <g opacity="0" transform="translate(0,10)">
         <animate attributeName="opacity" values="0;1" dur="0.45s" begin="2.38s" fill="freeze" />
@@ -334,7 +334,7 @@
         <rect x="857.8000000000001" y="468" width="77" height="30" rx="15" fill="url(#pillGrad)" opacity="0.10">
           <animate attributeName="opacity" values="0.08;0.22;0.08" dur="2.6s" begin="2.38s" repeatCount="indefinite" />
         </rect>
-        <text x="897" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">Node.js</text>
+        <text x="897" y="487" text-anchor="middle" font-family="'Work Sans', sans-serif" font-size="12" font-weight="600" fill="#f2f4f8">CSS</text>
       </g>
       <g opacity="0" transform="translate(0,10)">
         <animate attributeName="opacity" values="0;1" dur="0.45s" begin="2.5s" fill="freeze" />
